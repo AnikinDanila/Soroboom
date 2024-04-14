@@ -24,7 +24,6 @@ import World from '../icons/World.vue';
         </div>
       </div>
       <div>
-
       </div>
     </div>
   </div>
